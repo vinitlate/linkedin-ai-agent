@@ -154,7 +154,7 @@ The system doesn’t summarize headlines.
 It reframes trends into practical system lessons.
 
 ## 📂 Project Structure
-```mermaid
+```bash
 ├── app.py
 ├── agent_core.py
 ├── trend_agent.py
